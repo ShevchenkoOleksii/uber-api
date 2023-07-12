@@ -1,0 +1,5 @@
+{
+  "port": 8080,
+  "jwtSecret": "some secret word",
+  "mongoUri": "mongodb+srv://Oleksii:3x3QgnFz4MwLZrav@cluster0.pm63i.mongodb.net/Homework3NodeJS?retryWrites=true&w=majority"
+}
